@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/varacadp/momentum/issues"
   },
-  "homepage": "https://github.com/varacadp/momentum#readme"
+  "homepage": "https://github.com/varacadp/momentum#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
